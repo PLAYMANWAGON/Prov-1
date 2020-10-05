@@ -1,0 +1,13 @@
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\bin\Debug\netcoreapp3.1\prov.exe
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\bin\Debug\netcoreapp3.1\prov.deps.json
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\bin\Debug\netcoreapp3.1\prov.runtimeconfig.json
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\bin\Debug\netcoreapp3.1\prov.runtimeconfig.dev.json
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\bin\Debug\netcoreapp3.1\prov.dll
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\bin\Debug\netcoreapp3.1\prov.pdb
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\obj\Debug\netcoreapp3.1\prov.csprojAssemblyReference.cache
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\obj\Debug\netcoreapp3.1\prov.AssemblyInfoInputs.cache
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\obj\Debug\netcoreapp3.1\prov.AssemblyInfo.cs
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\obj\Debug\netcoreapp3.1\prov.csproj.CoreCompileInputs.cache
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\obj\Debug\netcoreapp3.1\prov.dll
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\obj\Debug\netcoreapp3.1\prov.pdb
+C:\Users\aironas.keturka\Documents\Mokykliniai Sudai\Webbutveckling\Prov-1\prov\obj\Debug\netcoreapp3.1\prov.genruntimeconfig.cache
